@@ -11,7 +11,7 @@ run `npm start`
 
 # Deposit detection (unconfirmed and confirmed), notification/alert
 Deposits change react useState based on transaction: 0 - if no transaction is sent, 1 - pending, 2 - successful , 3 - failed
-Maximum available deposit is 1000 ETH, hardhat wallet #0 is used as exchange wallet
+Maximum available deposit is 10000 ETH, hardhat wallet #0 is used as exchange wallet
 To deposit click connect wallet button or import wallet. Enter amount of eth that should be deposited, clcik deposit.
 
 # Sending a withdrawal (optional)
